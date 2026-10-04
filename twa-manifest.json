@@ -1,0 +1,25 @@
+{
+  "packageId": "com.tuodominio.skytrak",
+  "host": "TUODOMINIO.esempio.com",
+  "name": "SkyTrak",
+  "launcherName": "SkyTrak",
+  "display": "standalone",
+  "themeColor": "#0f1f3d",
+  "navigationColor": "#0f1f3d",
+  "backgroundColor": "#0f1f3d",
+  "startUrl": "/",
+  "iconUrl": "https://TUODOMINIO.esempio.com/icon-512.png",
+  "maskableIconUrl": "https://TUODOMINIO.esempio.com/icon-512.png",
+  "webManifestUrl": "https://TUODOMINIO.esempio.com/manifest.json",
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "orientation": "default",
+  "fallbackType": "customtabs",
+  "features": {
+    "locationDelegation": { "enabled": false },
+    "playBilling": { "enabled": false }
+  },
+  "enableNotifications": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false
+}
